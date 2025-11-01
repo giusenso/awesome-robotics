@@ -37,6 +37,8 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Become a Robotics Software Enginee](https://www.udacity.com/course/robotics-software-engineer--nd209) **Udacity**
 * [Advanced Robotics](http://www.cs.berkeley.edu/~pabbeel/cs287-fa13/) **UC Berkeley**
 * [Self-Driving Cars with Duckietown](https://www.edx.org/learn/technology/eth-zurich-self-driving-cars-with-duckietown) **edX**
+* [Autonomous and Mobile Robotics](https://www.diag.uniroma1.it/oriolo/amr/) **Sapienza University of Rome**
+* [Probabilistic Robotics](https://sites.google.com/diag.uniroma1.it/probabilistic-robotics-2024-25/) **Sapienza University of Rome**
 
 ### Books ###
 * [Robotics: Modelling, Planning and Control](https://link.springer.com/book/10.1007/978-1-84628-642-1) :dollar:
