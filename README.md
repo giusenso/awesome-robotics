@@ -14,6 +14,8 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Autonomous Mobile Robots](https://courses.edx.org/courses/ETHx/AMRx/1T2014/info) **edX**
 * [Robot Mechanics and Control, Part I](https://www.edx.org/course/robot-mechanics-control-part-i-snux-snu446-345-1x) **edX**
 * [Robot Mechanics and Control, Part II](https://www.edx.org/course/robot-mechanics-control-part-ii-snux-snu446-345-2x) **edX**
+* [Robotics 1 (Kinematics)](https://www.diag.uniroma1.it/deluca/rob1_en.php) **Sapienza University of Rome**
+* [Robotics 2 (Dynamics and Control)](http://www.diag.uniroma1.it/deluca/rob2_en.php) **Sapienza University of Rome**
 * [Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0) **edX**
 * [Robotics Specialization by GRASP Lab](https://www.coursera.org/specializations/robotics) **Coursera** :dollar:
 * [Control of Mobile Robots](https://www.coursera.org/course/conrob) **Coursera**
